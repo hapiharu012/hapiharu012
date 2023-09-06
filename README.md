@@ -4,7 +4,11 @@
 <h1 align="center">Hi 👋, I'm haruto morishige</h1>
 
 ![](https://komarev.com/ghpvc/?username=hapiharu012)
-<p align="left">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hapiharu012&theme=default)
+
+
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
