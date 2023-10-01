@@ -3,10 +3,21 @@
 
 <h1 align="center">Hi 👋, I'm haruto morishige</h1>
 
-![](https://komarev.com/ghpvc/?username=hapiharu012)
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/ln78x8n6h4c04dcemfrl" alt="trackgit-views" />
+</a>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hapiharu012&theme=default)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hapiharu012&theme=onedark&show_icons=true&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hapiharu012&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hapiharu012&theme=onedark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hapiharu012&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hapiharu012&theme=onedark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hapiharu012&theme=onedark)
 
 <p align="center">
 </p>
