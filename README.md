@@ -17,7 +17,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hapiharu012&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hapiharu012&theme=onedark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hapiharu012&theme=onedark)
 
 <p align="center">
 </p>
